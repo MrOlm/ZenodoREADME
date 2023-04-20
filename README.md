@@ -1,6 +1,6 @@
 # Data supporting publication: Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes
 
-Link to Zenodo archive: [https://doi.org/10.5281/zenodo.7782709]()
+Link to Zenodo archive: https://doi.org/10.5281/zenodo.7782709
 
 This upload contains several datasets to support the publication "Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes", including genomes, mapping databases, and other relevant data. The preprint publication is available on [bioRxiv](https://doi.org/10.1101/2022.03.30.486478). The citation for the peer-reviewed publication is not yet available as the time of this upload.
 
